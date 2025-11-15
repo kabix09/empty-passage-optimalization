@@ -1,0 +1,8 @@
+*
+
+!cities_latitude_longitude.csv
+!cities_with_countries.csv
+!output/
+!output/cities_distances_matrix.xlsx
+!output/cities_time_matrix.xlsx
+# !output/empty_passage_edges.xlsx

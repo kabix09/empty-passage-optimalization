@@ -1,0 +1,703 @@
+city,country_code
+aalen,DE
+abanilla,ES
+ablis,FR
+abrera,ES
+agnadello,IT
+alicante,ES
+alizay,FR
+altfeld,DE
+alzenau,DE
+alzey,DE
+amiens,FR
+amt wachsenburg,DE
+andernach,DE
+andwil sg,CH
+anzing,DE
+ardon,FR
+arnsdorf,DE
+assevillers,FR
+attendorn,DE
+aubervilliers,FR
+aulnay sous bois,FR
+azuqueca de henares,ES
+bad bentheim,DE
+bad duben;,DE
+bad fallingbostel,DE
+bad friedrichshall,DE
+bad langensalza,DE
+balve,DE
+baruth,DE
+basse-ham,FR
+bazeilles,FR
+beeskow,DE
+berbersdorf,DE
+bergisch gladbach,DE
+berlin,DE
+bern,CH
+bernburg,DE
+bernkastel-kues,DE
+bernsdorf,DE
+besigheim - neckar,DE
+bestwig,DE
+beuzeville,FR
+bexbach,DE
+biandronno,IT
+biebesheim am rhein,DE
+bielany wroclawskie,PL
+biesheim,FR
+bietigheim-bissingen,DE
+bingen,DE
+bitterfeld-wolfen,DE
+blatná,CZ
+blendecques,FR
+blois,FR
+bocholt,DE
+bochum,DE
+bogø by,DK
+boigny sur bionne,FR
+bondorf,DE
+bonin,PL
+bonn,DE
+bottrop,DE
+boulazac,FR
+bourges,FR
+boxberg,DE
+brake,DE
+brandis,DE
+breidenbach,DE
+breitenbach am herzberg,DE
+breitenworbis,DE
+bremerhaven,DE
+bresles,FR
+bretzfeld,DE
+briec,FR
+brieselang,DE
+brilon,DE
+brinkum,DE
+brugge,BE
+brunsbüttel,DE
+bruyères-sur-oise,FR
+brétigny-sur-orge,FR
+budaors,HU
+budapest,HU
+buggingen,DE
+burbach,DE
+burgos,ES
+burgwedel,DE
+bydgoszcz,PL
+bystra,PL
+böhlen,DE
+bönen,DE
+büdingen,DE
+bürstadt,DE
+büttelborn,DE
+cabanillas del campo,ES
+caen,FR
+cappelle-la-grande,FR
+carentoir,FR
+castel san giovanni,IT
+castellbisbal,ES
+castrop-rauxel,DE
+cerro maggiore,IT
+cesano maderno,IT
+challerange,FR
+champagne,FR
+champagné,FR
+champigneulles,FR
+chatres,FR
+chlastawa,PL
+chojnów gmina,PL
+cholet,FR
+choustník,CZ
+châteaudun,FR
+cloppenburg,DE
+cm oosterhout (the netherlands),NL
+cochem,DE
+coesfeld,DE
+combs-la-ville,FR
+compiègne,FR
+comun nuovo,IT
+condé-sur-vire,FR
+corbetta,IT
+coswig,DE
+crailsheim,DE
+csömör,HU
+dahlwitz-hoppegarten,DE
+damelevieres,FR
+delmenhorst,DE
+dettelbach,DE
+diemelstadt,DE
+dietikon,CH
+dietlikon,CH
+dillenburg,DE
+dingolfing,DE
+dintikon,CH
+dobroszyce,PL
+dobříň,CZ
+dolcè,IT
+donnersdorf,DE
+dortmund,DE
+dortmund-eving,DE
+douai,FR
+dourges,FR
+dresden,DE
+duisburg,DE
+dummerstorf,DE
+düren,DE
+düsseldorf,DE
+eberdingen,DE
+ebersbach an der fils,DE
+ebersdorf bei coburg,DE
+eggstätt,DE
+eichenzell,DE
+eilenburg,DE
+eitting,DE
+el prat del llobregat,ES
+ellerau,DE
+ellhofen,DE
+elmenhorst/lichtenhagen,DE
+eltville am rhein,DE
+emsbüren,DE
+ensisheim,FR
+erftstadt,DE
+erfurt,DE
+ergué-gabéric,FR
+erlenbach,DE
+erlensee,DE
+erxleben,DE
+eschweiler,DE
+essen,DE
+euskirchen,DE
+feignies,FR
+ferentino,IT
+feyzin,FR
+flensburg,DE
+florange,FR
+flörsheim am main,DE
+fos-sur-mer,FR
+frankenthal,DE
+frechen,DE
+friedenweiler,DE
+frouard,FR
+fuenlabrada,ES
+fuldatal,DE
+fót,HU
+fürth,DE
+gadki,PL
+garons,FR
+gattatico,IT
+gdańsk,PL
+geertruidenberg,NL
+geiselhöring,DE
+geisenfeld,DE
+gelida,ES
+gelnhausen,DE
+gelsenkirchen,DE
+gent,BE
+gentofte,DK
+georgsmarienhütte,DE
+gerichshain,DE
+gernsheim,DE
+gerstungen,DE
+giora/vigonza,IT
+glinojeck,PL
+gliwice,PL
+gniezno,PL
+gorzkowice,PL
+gostyń,PL
+gozdnica,PL
+grand-fougeray,FR
+granollers,ES
+grasse,FR
+grevenbroich,DE
+grodzisk mazowiecki,PL
+gronau,DE
+groningen,NL
+groß-gerau,DE
+großbreitenbach,DE
+großsteinberg,DE
+grâce-hollogne,BE
+grünhainichen,DE
+gyál,HU
+góra,PL
+górażdże,PL
+głogów,PL
+hagenow,DE
+halle,DE
+hambach,FR
+hamburg,DE
+hamm,DE
+hammersbach,DE
+handewitt,DE
+hannover,DE
+hardenberg,NL
+hartheim am rhein,DE
+hausach,DE
+heddesheim,DE
+heilbronn,DE
+heimsheim,DE
+heinsdorfergrund,DE
+hengelo,NL
+henstedt-ulzburg,DE
+herne,DE
+herrenberg,DE
+herrieden,DE
+hesdin,FR
+hillerød,DK
+hilter,DE
+hochdorf,CH
+hohenwestedt,DE
+holzgerlingen,DE
+holzminden,DE
+hombourg,FR
+horice,CZ
+horni pocernice,CZ
+hostivice,CZ
+hrádek,CZ
+hénin-beaumont,FR
+hénonville,FR
+höchst im odenwald,DE
+hückelhoven,DE
+hürth,DE
+ibi,ES
+illingen,DE
+ilshofen,DE
+iphofen,DE
+ipsheim,DE
+issenheim,FR
+itingen,CH
+jablonné v podještědí,CZ
+jarocin,PL
+jarosty,PL
+jasień,PL
+jastrowie,PL
+jelcz-laskowice,PL
+jelenia góra,PL
+jessen,DE
+jettingen-scheppach,DE
+jirkov,CZ
+jübar,DE
+jülich,DE
+kabelsketal,DE
+kallo,BE
+kaltenkirchen,DE
+kamp-lintfort,DE
+kampinos,PL
+karlstein am main,DE
+karsdorf,DE
+kastellaun,DE
+kaysersberg,FR
+kazimierz biskupi,PL
+kałuszyn,PL
+kerpen,DE
+kevelaer,DE
+kiel,DE
+kiełmina,PL
+kirkel,DE
+klicany,CZ
+klipphausen,DE
+kobierzyce,PL
+koblenz,DE
+konin,PL
+kopanica,PL
+kornwestheim,DE
+kostrzyn nad odrą,PL
+koszalin,PL
+kościan,PL
+kraków,PL
+krefeld,DE
+kremmen,DE
+krosno,PL
+krzemieniewo,PL
+krzyżowniki,PL
+kunheim,FR
+kuřívody,CZ
+kwidzyń,PL
+köln,DE
+königstein/sächsische schweiz,DE
+københavn,DK
+køge,DK
+la chapelle-heulin,FR
+la ferté-gaucher,FR
+la maxe,FR
+la sentinelle,FR
+la vancelle,FR
+lagny-le-sec,FR
+landsberg,DE
+langenau,DE
+langenbach,DE
+langenfeld,DE
+langenthal,CH
+langgöns,DE
+laronxe,FR
+lauenau,DE
+le creusot,FR
+le relecq-kerhuon,FR
+lebach,DE
+ledro,IT
+leeuwarden,NL
+leipzig,DE
+leipzig nord - seehausen,DE
+lestrem,FR
+leszno,PL
+leuna,DE
+leupoldsgrün,DE
+liberec,CZ
+lichtervelde,BE
+lippstadt,DE
+lomme,FR
+longueil-sainte-marie,FR
+loon-plage,FR
+lorsch,DE
+lovosice,CZ
+lubin,PL
+ludres,FR
+ludwigsfelde,DE
+luebbenau,DE
+lutherstadt wittenberg,DE
+löbichau,DE
+löhne,DE
+lübeck,DE
+lübeck-travemünde,DE
+lüneburg,DE
+lünen,DE
+maastricht,NL
+madrid,ES
+malchow,DE
+manerbio,IT
+mannheim,DE
+marktheidenfeld,DE
+marl,DE
+marquette-lez-lille,FR
+massy,FR
+mataro,ES
+mayen,DE
+mechelen,BE
+mechlin,PL
+meckenheim,DE
+mehring,DE
+meineweh,DE
+meineweh-schleinitz,DE
+melle,DE
+melle-bruchmühlen,DE
+meppen,DE
+mer,FR
+merksem,BE
+metzeral,FR
+meung sur loire,FR
+michałów,PL
+mittenwalde,DE
+modautal,DE
+modletice,CZ
+modřice,CZ
+moerdijk,NL
+moers,DE
+moissy-cramayel,FR
+molsheim,FR
+monheim am rhein,DE
+monsheim,DE
+moringen,DE
+morsbach,DE
+mouscron,BE
+much,DE
+muhen,CH
+mulhouse,FR
+murr,DE
+mutterstadt,DE
+mägenwil,CH
+möckmühl,DE
+möhlin,CH
+mönchengladbach,DE
+mühlhausen/thüringen,DE
+mścice,PL
+nantes,FR
+natolin,PL
+nerenstetten,DE
+nettetal,DE
+neu-ulm,DE
+neubrandenburg,DE
+neuendorf,CH
+neuenhagen bei berlin,DE
+neuenstein,DE
+neulliac,FR
+neumünster,DE
+neuss,DE
+neustadt an der weinstraße,DE
+neutraubling,DE
+neuville-aux-bois,FR
+niedergösgen,CH
+niederhergheim,FR
+niederzier,DE
+nienburg,DE
+nieuwdorp,NL
+nogent-sur-seine,FR
+norderstedt,DE
+nowa sól,PL
+nowa wieś wrocławska,PL
+nowe obrzyska,PL
+nykøbing falster,DK
+nürnberg,DE
+o barco,ES
+o grove,ES
+oberhausen,DE
+oberkrämer,DE
+obernkirchen,DE
+obersontheim,DE
+obersulm,DE
+ociąż,PL
+offenbach an der queich,DE
+okmiany,PL
+oldenburg,DE
+oostende,BE
+oostrozebeke,BE
+ophasselt,BE
+opoczno,PL
+oranienburg,DE
+orsk,PL
+orvault,FR
+osieczna,PL
+oss,NL
+osterburg,DE
+osterweddingen,DE
+ottmarsheim,FR
+oława,PL
+pakość,PL
+pampow,DE
+pannes,FR
+penig,DE
+perlen,CH
+philippsburg,DE
+piechowice,PL
+pilzno,CZ
+pinon,FR
+piotrków trybunalski,PL
+pleszew,PL
+pobiedziska,PL
+podenzano,IT
+poupry,FR
+poznań,PL
+praha - cerny most,CZ
+praha 5,CZ
+praha-horni pocernice,CZ
+pratteln 1,CH
+presles-en-brie,FR
+pritzwalk,DE
+przechlewo,PL
+przytoczna,PL
+puck,PL
+pudliszki,PL
+puerto de sagunto,ES
+pulheim,DE
+rabka-zdrój,PL
+raciąż,PL
+radeburg,DE
+rakovník,CZ
+ransbach-baumbach,DE
+raunheim,DE
+rawicz,PL
+recklinghausen,DE
+recy,FR
+reguengo,ES
+reinsdorf,DE
+remscheid,DE
+renningen,DE
+rheda-wiedenbrück,DE
+rheinfelden (baden),DE
+rijsbergen,NL
+robakowo,PL
+rodgau,DE
+rogozno,PL
+roissy-en-france,FR
+rossau,DE
+rottleberode,DE
+rouvignies,FR
+roye,FR
+rubiá,ES
+rudolstadt,DE
+rumst,BE
+rösrath,DE
+rüsselsheim am main,DE
+saarbrücken,DE
+saarlouis,DE
+saint-ghislain,BE
+saint-hilaire-les-andrésis,FR
+saint-pantaléon-de-larche,FR
+saint-pierre-des-corps,FR
+saint-quentin-fallavier,FR
+salzgitter,DE
+san giorgio bigarello,IT
+sandersdorf - brehna,DE
+sanem,LU
+sankt ingbert,DE
+sankt wendel,DE
+sarralbe,FR
+sarreguemines,FR
+satolas-et-bonce,FR
+satteldorf,DE
+savigny,FR
+schaffhausen,CH
+schifferstadt,DE
+schkeuditz,DE
+schkopau,DE
+schleusingen,DE
+schmitten,CH
+schongau,DE
+schopfheim,DE
+schorndorf,DE
+schwabmünchen,DE
+schwanewede,DE
+schwerin,DE
+schwetzingen,DE
+schönefeld,DE
+schönenbuch,CH
+schüttorf,DE
+seesen,DE
+senden,DE
+sennwald,CH
+serris,FR
+sesto san giovanni,IT
+sierpc,PL
+simmerath,DE
+singen,DE
+sins,CH
+siziano,IT
+skarbimierz,PL
+skierniewice,PL
+sochaczew,PL
+somain,FR
+sorigny,FR
+soumagne,BE
+speyer,DE
+spreitenbach,CH
+spáňov,CZ
+srebrna góra,PL
+stadtroda,DE
+starbach,DE
+steinbach am wald,DE
+stelle,DE
+stobno,PL
+strancice,CZ
+strasbourg,FR
+straubing,DE
+stuttgart,DE
+suhr,CH
+suisio,IT
+sulikow,PL
+sursee,CH
+swarożyn,PL
+swarzedz,PL
+szreńsk,PL
+székesfehérvár,HU
+sülzetal,DE
+sędziszów gmina,PL
+tachov,CZ
+tamási,HU
+tarnowo podgórne,PL
+tastrup,DK
+taufkirchen,DE
+teltow,DE
+teresin,PL
+thiers,FR
+thouars,FR
+thulin,BE
+tiefenbronn,DE
+tomaszów mazowiecki,PL
+tordera,ES
+tortona,IT
+toruń,PL
+toul,FR
+trappes,FR
+trebur,DE
+treviglio,IT
+trier,DE
+trilport,FR
+trith-saint-léger,FR
+trzebania,PL
+trzebnica,PL
+tuchola,PL
+turnhout,BE
+uffenheim,DE
+ulft,NL
+ulm,DE
+unna,DE
+usti nad labem,CZ
+vaihingen an der enz,DE
+valluhn,DE
+varennes-sur-allier,FR
+vechta,DE
+veitshochheim,DE
+velký šenov,CZ
+venette,FR
+vert-saint-denis,FR
+vieux-thann,FR
+villefranche sur saone,FR
+villette-d'anthon,FR
+villmergen,CH
+vilvoorde,BE
+vojens,DK
+volvic,FR
+vrskman,CZ
+waldenburg,DE
+waldshut-tiengen,DE
+wangen bei olten,CH
+warszawa,PL
+wałbrzych,PL
+weesp,NL
+weil am rhein,DE
+weilerswist,DE
+weinsberg,DE
+weiterstadt,DE
+weißenfels,DE
+wenzendorf,DE
+werne,DE
+werra-suhl-tal,DE
+westerkappeln,DE
+wevelgem,BE
+widnau,CH
+wiefelstede,DE
+wierzbica,PL
+wieseth,DE
+wiesloch,DE
+wijewo,PL
+wildberg,DE
+willebroek,BE
+willisau,CH
+winterthur,CH
+wiskitki,PL
+wismar,DE
+wissous,FR
+wohlen,CH
+wolnzach,DE
+wolsztyn,PL
+worms,DE
+wołów,PL
+wroclaw,PL
+wunstorf,DE
+wuppertal,DE
+wykroty,PL
+wörnitz,DE
+wörth am rhein,DE
+würzburg,DE
+włoszakowice,PL
+xixona,ES
+zarrentin,DE
+zarrentin am schaalsee,DE
+zbaszynek,PL
+zeithain,DE
+zele,BE
+zgierz,PL
+zgorzelec,PL
+zoetermeer,NL
+zuzenhausen,DE
+zwijndrecht,BE
+öhringen,DE
+ühlingen-birkendorf,DE
+łódź,PL
+říčany,CZ
+środa śląska gmina,PL
+świebodzice,PL
+świebodzin,PL
+święciechowa,PL
+żary,PL
+žirovnice,CZ
