@@ -5,4 +5,12 @@
 !output/
 !output/cities_distances_matrix.xlsx
 !output/cities_time_matrix.xlsx
+!output/sample_de/
+!output/sample_de/sample_dane_puste_przebiegi_optimalized_cbc.xlsx
+!output/sample_de/sample_dane_puste_przebiegi_optimalized_cplex.xlsx
+!output/sample_de/sample_dane_puste_przebiegi_optimalized_glpk.xlsx
+!output/sample_de/sample_dane_puste_przebiegi.xlsx
+!output/sample_de/sample_de_cities_distance_matrix.xlsx
+!output/sample_de/sample_de_cities_time_matrix.xlsx
+!output/sample_de/sample_empty_passage_edges.xlsx
 # !output/empty_passage_edges.xlsx
