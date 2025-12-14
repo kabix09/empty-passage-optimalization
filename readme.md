@@ -12,6 +12,10 @@ with route chaining, cost reduction, and fleet efficiency.
 > performance.\
 > A practical, data-driven workflow for real transport datasets.
 
+### 📄 Documentation
+
+For a comprehensive overview, please consult [the documentation](./documentation/).
+
 ------------------------------------------------------------------------
 
 ## 🎯 What Problem Does This Solve?
