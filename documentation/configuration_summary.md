@@ -1,14 +1,17 @@
 # Raport: Testy konfiguracji modelu minimalizacji pustych przewozów
 
 ## Wprowadzenie
+
 Celem testów było zbadanie wpływu różnych ustawień parametrów `max_idle_hours`, `min_empty_km` oraz `max_empty_km` na rozwiązanie modelu MIP dla minimalizacji pustych przewozów.
 
 Parametry decyzyjne modelu:
+
 - `max_idle_hours` – maksymalna liczba godzin postoju pojazdu,
 - `min_empty_km` – minimalna odległość trasy pustej,
 - `max_empty_km` – maksymalna odległość trasy pustej.
 
 Status rozwiązania CPLEX:
+
 - **Optimal** – rozwiązanie optymalne znalezione,
 - **Infeasible** – brak rozwiązania spełniającego ograniczenia.
 
@@ -18,11 +21,12 @@ Status rozwiązania CPLEX:
 
 | Nr testu | max_idle_hours | min_empty_km | max_empty_km | Status rozwiązania | Minimalna suma pustych km | Uwagi |
 |----------|----------------|--------------|--------------|------------------|---------------------------|-------|
-| 1 | 36 | 50 | 700 | Optimal | 29758.37 | Fill empty km → 29054 km |
-| 2 | 18 | 50 | 400 | Infeasible | - | Brak rozwiązania |
-| 3 | 18 | 50 | 700 | Infeasible | - | Brak rozwiązania |
+| 1 | 36 | 30 | 700 | Optimal | 25992.92 | Fill empty route → 25992.92 km |
+| 2 | 48 | 50 | 1200 | Optimal | 29537.61 | Fill empty route → 29537.61 km |
+| 3 | 36 | 50 | 700 | Optimal | 29758.37 | Fill empty km → 29054 km **BRAKUJE 6 TRAS** |
 | 4 | 20 | 10 | 700 | Optimal | 32547.42 | Fill empty km → 32547.42 km |
-| 5 | 48 | 50 | 1200 | Optimal | 29537.61 | Fill empty route → 29537.61 km |
+| 5 | 18 | 50 | 400 | Infeasible | - | Brak rozwiązania |
+| 6 | 18 | 50 | 700 | Infeasible | - | Brak rozwiązania |
 
 ---
 
@@ -40,4 +44,3 @@ Status rozwiązania CPLEX:
 - Model jest wrażliwy na kombinacje parametrów `max_idle_hours` i `max_empty_km`.
 - Zbyt rygorystyczne ograniczenia mogą prowadzić do sytuacji niespełnialnych.
 - W praktyce warto testować kilka konfiguracji parametrów i stosować wypełnianie pustych tras, aby uzyskać rzeczywistą minimalizację pustych km.
-
