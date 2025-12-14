@@ -14,3 +14,6 @@
 !output/sample_de/sample_de_cities_time_matrix.xlsx
 !output/sample_de/sample_empty_passage_edges.xlsx
 # !output/empty_passage_edges.xlsx
+
+!output/sample_de/sample_dane_puste_przebiegi_optimalized_cplex-chain_maximalization.xlsx
+!output/sample_de/sample_dane_puste_przebiegi_optimalized_cplex-single_stage.xlsx
